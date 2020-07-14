@@ -1,0 +1,4 @@
+avenues = 10
+streets = 10
+walls = []
+beepers = {}
